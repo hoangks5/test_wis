@@ -21,6 +21,5 @@ Enter a number:
 >>> 1234
 2 cows, 0 bulls
 >>> 1256
-1 cow, 1 bull
-  	...
+1 cow, 1 bull<br>
 Bài 8: Viết một chương trình để chuyển đổi số nguyên N sang hệ cơ số B (2 <= B <= 32) bất kỳ.
